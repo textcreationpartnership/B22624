@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Arise Evans, from his study in the Black-Fryars, concerning His Highness the Lord Protector and the government of the three nations of England, Scotland, and Ireland with his prophetick proposals, touching Mr. Feak and Mr. Simpson, and the rest of the discontented and independent party : fore-telling the great change that will happen in this present year, 1654 and the wonderful things that will befal the Anabaptists : likewise, the bloody prophecie, concerning the lilly, the lyon, the son of Charles, the land of the moon, and the eastern eagle : with his interpretation upon each particular : directed to the people of England.</title>
+            <author>Evans, Arise, b. 1607.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22624</idno><idno type="EEBO-CITATION">13078180</idno>
+  <idno type="VID">197833</idno>
+  <idno type="EEBO-PROQUEST">2248519868</idno>
+  
+            <idno type="STC">Wing E3455</idno>
+            <idno type="OCLC">13078180</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 263:E224, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Arise Evans, from his study in the Black-Fryars, concerning His Highness the Lord Protector and the government of the three nations of England, Scotland, and Ireland with his prophetick proposals, touching Mr. Feak and Mr. Simpson, and the rest of the discontented and independent party : fore-telling the great change that will happen in this present year, 1654 and the wonderful things that will befal the Anabaptists : likewise, the bloody prophecie, concerning the lilly, the lyon, the son of Charles, the land of the moon, and the eastern eagle : with his interpretation upon each particular : directed to the people of England.</title>
+                  <author>Evans, Arise, b. 1607.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Convert ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilly, William, 1602-1681.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197833:1"/>
+            <pb facs="tcp:197833:1"/>
+            <p>THE DECLARATION OF Arise Evans, From his Study in the Black-Fryars, concerning his High<g ref="char:EOLhyphen"/>ness the Lord Protector, and the Government of the three Nations of ENGLAND, SCOTLAND, and IRELAND.</p>
+            <p>With his Prophetick Proposals, touching Mr. FEAK, and Mr. SIMPSON, and the rest of the discontented and Independent Party: fore-telling, the great Change that will happen in this present Year, 1654. and the wonderful Things that will befal the Anabaptists.</p>
+            <p>Likewise, the Bloody Prophecie; concerning the Lilly, the Lyon, the Son of Charles, the Land of the Moon, and the Eastern Eagle: With his interpretation upon each par<g ref="char:EOLhyphen"/>ticular: Directed to the people of England.</p>
+            <figure>
+               <figDesc>Decorative band consisting of French fleur-de-lis with a Tudor rose and Scottish thistle on either side</figDesc>
+            </figure>
+            <p>
+               <add>Febr. 9.</add> LONDON, Printed for G CONVERT, and are to be sold at the West end of PAULS, and at the Roy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hange in Cornh<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>65<add>4</add>
+               <add>1653</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197833:2"/>
+            <pb n="1" facs="tcp:197833:2"/>
+            <div type="part">
+               <head>The Bloudy Prophecie, &amp;c.</head>
+               <opener>
+                  <salute>GEntlemen,</salute>
+               </opener>
+               <p>I hope I shall be cleer from the blood of this Genera<g ref="char:EOLhyphen"/>tion, being sent of God to declare the things hereafter mentio<g ref="char:EOLhyphen"/>ned: For it is evident, I fore-told the manner of the death of King Charles, and do herein fore-see a great and mighty change. So that if the people now refuse to hear me, who have had so many witnes<g ref="char:EOLhyphen"/>ses to shew that God is pleased to declare his determinate Will by me) they of all others will be the least excusable for despising me, and so the least capable of mercy. For, have they not known how God by me declared the most remarkable things that befel these king<g ref="char:EOLhyphen"/>doms since the wars began: How that 20 years ago I declared the things that befel my late Soveraign, and that I suffered three yeares imprisonment for the same? How that I declared to the Earl of Essex 7 years before he was General, that he should be the peoples General against the King? Have they not known how that in the year 1646 I declared the downfal of the Presbyterians. How I de<g ref="char:EOLhyphen"/>clared, that the Kings Son would come to Eng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and long before he came to Worcester, and his success likewise? How I declared to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Parl. that they should be destroyed long before <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir dissolution▪ And now, as concerning you, ye discontented people of Bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that use to meet every Monday▪ ye pray, ye preach▪ y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>plain, that God doth not hear yo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r prayer, and ye cry <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Spirit of Prophesi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by some o<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or o<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> un<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he things to come▪ <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nnot <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:197833:3"/> when God sheweth you all these things by me his poor Messenger; Therefore, I say unto you, bend your prayers for the present Power, submit unto OLIVER yout supream Governor and Lord Protector, and then doubtless ye shal prevail with God in prayers for him, and have all your desires accomplished; that is, to have the late members of Parliament called to an account for all their vast sums of money, and to have the people eased of their heavy Taxations, and wearisom Burdens, which for many years (poor soules) they have undergone: For indeed what is become of the Bishops, Deans, and Chapters lands and Delinquents estates, forsooth? and many other things that are gone I know not where: no, nor he that has as big a head as a Horse I believe: But sure I am, that there are many worth a thousand <hi>li.</hi> now, that were not worth one hundred pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore the wars began▪ So that you may cleerly see▪ we have had more Juglers than Gypsies of late dayes. And therefore, if ye would have God to hear you, why do you not hear him by doing justly to his Highness, and submitting to the present Government, <hi>that righteousness may run down as a Ri<g ref="char:EOLhyphen"/>ver,</hi> or else all your seeking the Lord wilbe in vain; for if ye will still have your prayers granted according to your own sense and will, that is, for you to prevail, kil and slay all that wil not submit unto you, then the Lord wil shew your folly to all the world. And do not you boast, as some of you do, that ye have had the Spirit of Prophesie▪ these 7. years; that the Armies over-coming your enemie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is the fruit of your prayers. Alas! it is but your <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ride for it was Gods Decree to deliver his people into your hands for a time, to punish them for their sins, and he revealed it unto me 20 years ago, that your party should pre<g ref="char:EOLhyphen"/>vail as they h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve done, and the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come to a miser<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble end.</p>
+               <p>But I shal take occasion by the way to speak a Word also to M. Feak, and M. Simpson, and others of their party, meeting at the aforesaid place of Black-Fryars, not doubt<g ref="char:EOLhyphen"/>ing, but when God shal arrest them, saying, 1 King. 21:19. Hast thou killed and taken possession in that place where the King and his people lost their blood, in that very place shall thy blood be spilt, even thine; and set their bloody
+<pb n="5" facs="tcp:197833:3"/> Deeds to cry unto their Consciences, saying, We are thine, and we will not leave thee until thy judgment come; and when Nathans Riddle is opened unto others, saying, Thou art the man, for thou hast given great occasion to the Pa<g ref="char:EOLhyphen"/>pist to blaspheme, saying, These are the works of such as would be altogether ruled by the Bible: they will break their Vowes, and kill and steal by authority; when like Davids their sin as a bloody sheet is set before them. It wil make them ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r like David, saying, I acknowledge mine iniquity, and my sin is ever before me; against thee, thee onely have I sinned, by causing the enemies to blaspheme thy Word, the holy Bible. Oh now I will repent, and en<g ref="char:EOLhyphen"/>deavor to make restitution to the families we have spoil<g ref="char:EOLhyphen"/>ed, and I will pay my Vows, and stop the mouthes of the Blasphemers of thy Word thereby, so far as I am able, help me Lord, that J may prevail and appease thy hot indig<g ref="char:EOLhyphen"/>nation against me: and my desire is, that those of Mr. Simpsons party would repent and be of the same resolu<g ref="char:EOLhyphen"/>tion: But J know of a certain there is a party in this Land, that shall fall by their wilful impenitency. But con<g ref="char:EOLhyphen"/>sider, J beseech you, that the Elect must endure and slye, until the Lord come as lightening to lighten the earth, to give them hope and assured knowledge that judgment is coming upon their persecutors; for ye know that we are exhorted by Christ Jesus, to compare what we see in his Word with the things done in our times, for he gives Us true signes; and then saith he, When ye see these things begin to come to pass, know that your redemption draw<g ref="char:EOLhyphen"/>eth nigh.</p>
+               <pb n="6" facs="tcp:197833:4"/>
+               <p>Truly, I have no cause to doubt these people; for though they have not yielded to the truth: yet they have been perswaded that my Declaration was so much in the way of Gods Spirit, that they did not molest me at all when I delivered my Petition to the Council of the Army, and spoke in the defence of King Charles at that time when I disputed it before them all four hours together. And now I am as the <hi>Paul</hi> of this time: he was a Mechanick, a Tent-maker, I am a Taylor: I plant and shew these things, <hi>Apollo,</hi> that is the elo<g ref="char:EOLhyphen"/>quent Ministers of Christ are to water them, but God giveth the in<g ref="char:EOLhyphen"/>crease. I recommend all to God, and his Ministers, and I remain your faithful Servant in Chtist Jesus.</p>
+               <closer>
+                  <signed>Arise Evans.</signed>
+               </closer>
+               <trailer type="illustration">
+                  <figure/>
+               </trailer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:197833:4"/>
+               <head>The Prophecie and Interpretation.</head>
+               <p>
+                  <list>
+                     <item>FIrst, the Lilly shall remain in a merry World, and hr shal be mo<g ref="char:EOLhyphen"/>ved against the Seed of the Lyon, and he shall stand on one side amongst Thrones of his Countrey, which Country is the Land of the Moon, which is to be dread throughout all the World.</item>
+                     <item>2 And there shall come the Son of Man, bearing three wild Beasts in his Armes, with a company of people he shall pass many waters, and he shall come to the Land of the Lyon, looking for help with Beasts of his own Countrey.</item>
+                     <item>3 And in that year there shall come an Eagle out of the East, and his Wings spread with the beames of the Son of Man.</item>
+                     <item>4 And that year shall be destroyed Castles upon Thames, &amp; there shall be great fear over all the World, and in a part of the Land there shall be great Battels among many Kingdoms.</item>
+                     <item>5 That day shall be the bloody field, and the Lilly shall lose the Crown, and th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rewith shalbe crowned the Son of man.</item>
+                     <item>6 And in the fourth year many battels shalbe for the faith, and most of the world shalbe sloopen; but the Son of man with the Eagle shalbe preferred, and there shalbe universal peace over all the World: then shall the Son of man r<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ceive a marvellous token, and there shalbe great plenty of all manner of fruits, and then shal he go to the Land of the Cross.</item>
+                  </list>
+               </p>
+               <div type="section">
+                  <head>The Interpretation.</head>
+                  <p>
+                     <list>
+                        <item>THis Lilly is Mr. Lilly the Astrologer, and the merry Worln is a mad world that believe Astrologers, contrary to Gods mind. M. Lilly shall be moved against the Seed of the Lyon, that is, the Kings Seed, against whom he writ so bitterly. And Lilly shall stand on one side amongst Thrones of his Countrey, that is, he shal stand for the Common-wealth: which Countrey is the Land of the Moon: He compares England to the Moon, in regard of its changing from one thing to another, as the Moon changeth every month: so England to day is a Protestant, to morrow a Presbyterian, next day an Indepen<g ref="char:EOLhyphen"/>dent, and you know not what; and all rhe world looking uhon the di<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ers
+<pb n="8" facs="tcp:197833:5"/> of England, is afraid l<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t some of this English Seed come amongst them, a<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d infect them with the same disease, yea and con<g ref="char:EOLhyphen"/>quer their Kings, and bring them also to ruine and destruction.</item>
+                        <item>2 The Son of man is the King which crosseth the waters from France to Holland, and from Holland to Scotland, to seek help and assistance: And Scotland he calleth the Land of the Lyon, in regard their King came from thence.</item>
+                        <item>3 By this Eagle that comes from the East, is meant the Dutch, ships coming against England, and some of them bearing the Kings Colours. 1652.</item>
+                        <item>4 By the Castles destroyed upon Thames, is meant the overthrow given to our ships in Decemb. 1652.</item>
+                        <item>5 By that day, he meanes 1653. in which the bloody Battel shall be fought, and the Lilly shall lose his Crown: here M. <hi>Lillie</hi> appeares to be the white mock-king; for he hath domineer'd the most: And therefore shal he and his lose their Crowns.</item>
+                        <item>6 By the fourth year he means 1654. then shal the World be in an Uproar fighting for Religion, but they must bow to the true Protestant Religion, and God will cause the Supporters thereof to be highly honoured in all parts of the World. Thus hoping I have spoken the truth to all, without respect of persons, wherein I am not their enemy, but their friend, being Gods servant in so doing, for his glory, and the peace and tranquility of his People,</item>
+                     </list>
+                  </p>
+                  <closer>Amen, Amen,</closer>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
